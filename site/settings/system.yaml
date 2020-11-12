@@ -2,7 +2,7 @@ locales:
   en:
     full: en_US
     name: English
-    url: 'http://localhost:3000/'
+    url: 'https://styleguide.mdstage.pw'
 timezone: America/Chicago
 date_format: 'F jS, Y'
 default_extension: html
